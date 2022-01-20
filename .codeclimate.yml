@@ -3,10 +3,3 @@ plugins:
     enabled: true
     config:
       file: ".config/checkstyle.xml"
-  sonar-java:
-    enabled: true
-    config:
-      sonar.java.source: "14"
-      sonar.java.sources: .**/src/**/*.java
-      tests_patterns:
-        - .**/src/test/**
