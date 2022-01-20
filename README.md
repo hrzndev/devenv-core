@@ -11,6 +11,11 @@
 
 > ``Core`` is part of the $devenv project, a collection of features for managing your developers' development environment.
 
+
+## Links
+
+- https://codeclimate.com/github/hrzndev/devenv-core
+
 ## Metadata
 
 hrzn - (twitter) - (email)
