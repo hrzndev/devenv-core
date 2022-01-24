@@ -16,7 +16,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>io.hrzn.onboard</groupId>
+            <groupId>io.hrzn.devenv</groupId>
             <artifactId>core-domain</artifactId>
             <version>1.0.0-SNAPSHOT</version>
         </dependency>

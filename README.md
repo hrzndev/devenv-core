@@ -1,6 +1,7 @@
 ![GitHub version](https://img.shields.io/github/v/release/hrzndev/devenv-core?include_prereleases&sort=semver&style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues-raw/hrzndev/devenv-core?style=flat-square)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/hrzndev/devenv-core?style=flat-square)
+[![Build and Tests](https://github.com/hrzndev/devenv-core/actions/workflows/buildandtests.yml/badge.svg)](https://github.com/hrzndev/devenv-core/actions/workflows/buildandtests.yml)
 ![GitHub license](https://img.shields.io/github/license/hrzndev/devenv-core?style=flat-square)
 [![Maintainability](https://api.codeclimate.com/v1/badges/6f49c64bf72d28259a60/maintainability)](https://codeclimate.com/github/hrzndev/devenv-core/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/6f49c64bf72d28259a60/test_coverage)](https://codeclimate.com/github/hrzndev/devenv-core/test_coverage)
